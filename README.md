@@ -16,9 +16,3 @@ This repository contains a comprehensive framework for developing, implementing,
 - Ethical AI use guidelines
 - Accountability and governance structures
 - Compliance with evolving regulations
-
-## Maintenance
-This repository should be reviewed quarterly to ensure alignment with:
-- Emerging AI regulations
-- Evolving cybersecurity threats
-- Changing industry best practices
